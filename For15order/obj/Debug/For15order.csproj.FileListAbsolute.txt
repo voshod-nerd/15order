@@ -1,0 +1,61 @@
+C:\Users\шайманов\Documents\SharpDevelop Projects\For15order\For15order\bin\Debug\For15order.exe
+C:\Users\шайманов\Documents\SharpDevelop Projects\For15order\For15order\bin\Debug\For15order.pdb
+C:\Users\шайманов\Documents\SharpDevelop Projects\For15order\For15order\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\шайманов\Documents\SharpDevelop Projects\For15order\For15order\obj\Debug\For15order.MainForm.resources
+C:\Users\шайманов\Documents\SharpDevelop Projects\For15order\For15order\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\шайманов\Documents\SharpDevelop Projects\For15order\For15order\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\шайманов\Documents\SharpDevelop Projects\For15order\For15order\obj\Debug\For15order.exe
+C:\Users\шайманов\Documents\SharpDevelop Projects\For15order\For15order\obj\Debug\For15order.pdb
+C:\Users\Олег\Desktop\For15order\For15order\bin\Debug\For15order.exe
+C:\Users\Олег\Desktop\For15order\For15order\bin\Debug\For15order.pdb
+C:\Users\Олег\Desktop\For15order\For15order\obj\Debug\For15order.csprojResolveAssemblyReference.cache
+C:\Users\Олег\Desktop\For15order\For15order\obj\Debug\For15order.MainForm.resources
+C:\Users\Олег\Desktop\For15order\For15order\obj\Debug\For15order.csproj.GenerateResource.Cache
+C:\Users\Олег\Desktop\For15order\For15order\obj\Debug\For15order.exe
+C:\Users\Олег\Desktop\For15order\For15order\obj\Debug\For15order.pdb
+C:\Users\Олег\Desktop\For15order_v001\For15order\bin\Debug\For15order.exe
+C:\Users\Олег\Desktop\For15order_v001\For15order\bin\Debug\For15order.pdb
+C:\Users\Олег\Desktop\For15order_v001\For15order\obj\Debug\For15order.MainForm.resources
+C:\Users\Олег\Desktop\For15order_v001\For15order\obj\Debug\For15order.csproj.GenerateResource.Cache
+C:\Users\Олег\Desktop\For15order_v001\For15order\obj\Debug\For15order.exe
+C:\Users\Олег\Desktop\For15order_v001\For15order\obj\Debug\For15order.pdb
+C:\Documents and Settings\соколов\Рабочий стол\For15order_v001\For15order_v001\For15order\bin\Debug\For15order.exe
+C:\Documents and Settings\соколов\Рабочий стол\For15order_v001\For15order_v001\For15order\bin\Debug\For15order.pdb
+C:\Documents and Settings\соколов\Рабочий стол\For15order_v001\For15order_v001\For15order\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\соколов\Рабочий стол\For15order_v001\For15order_v001\For15order\obj\Debug\For15order.MainForm.resources
+C:\Documents and Settings\соколов\Рабочий стол\For15order_v001\For15order_v001\For15order\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\соколов\Рабочий стол\For15order_v001\For15order_v001\For15order\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\соколов\Рабочий стол\For15order_v001\For15order_v001\For15order\obj\Debug\For15order.exe
+C:\Documents and Settings\соколов\Рабочий стол\For15order_v001\For15order_v001\For15order\obj\Debug\For15order.pdb
+\\192.168.0.2\documents\public\Соколов О\Исходник по приказу №15\For15order_v001\For15order\bin\Debug\For15order.exe
+\\192.168.0.2\documents\public\Соколов О\Исходник по приказу №15\For15order_v001\For15order\bin\Debug\For15order.pdb
+\\192.168.0.2\documents\public\Соколов О\Исходник по приказу №15\For15order_v001\For15order\obj\Debug\ResolveAssemblyReference.cache
+\\192.168.0.2\documents\public\Соколов О\Исходник по приказу №15\For15order_v001\For15order\obj\Debug\For15order.MainForm.resources
+\\192.168.0.2\documents\public\Соколов О\Исходник по приказу №15\For15order_v001\For15order\obj\Debug\GenerateResource.read.1.tlog
+\\192.168.0.2\documents\public\Соколов О\Исходник по приказу №15\For15order_v001\For15order\obj\Debug\GenerateResource.write.1.tlog
+\\192.168.0.2\documents\public\Соколов О\Исходник по приказу №15\For15order_v001\For15order\obj\Debug\For15order.exe
+\\192.168.0.2\documents\public\Соколов О\Исходник по приказу №15\For15order_v001\For15order\obj\Debug\For15order.pdb
+C:\Documents and Settings\соколов\Рабочий стол\Исходник по приказу №15\For15order_v001\For15order\bin\Debug\For15order.exe
+C:\Documents and Settings\соколов\Рабочий стол\Исходник по приказу №15\For15order_v001\For15order\bin\Debug\For15order.pdb
+C:\Documents and Settings\соколов\Рабочий стол\Исходник по приказу №15\For15order_v001\For15order\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\соколов\Рабочий стол\Исходник по приказу №15\For15order_v001\For15order\obj\Debug\For15order.MainForm.resources
+C:\Documents and Settings\соколов\Рабочий стол\Исходник по приказу №15\For15order_v001\For15order\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\соколов\Рабочий стол\Исходник по приказу №15\For15order_v001\For15order\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\соколов\Рабочий стол\Исходник по приказу №15\For15order_v001\For15order\obj\Debug\For15order.exe
+C:\Documents and Settings\соколов\Рабочий стол\Исходник по приказу №15\For15order_v001\For15order\obj\Debug\For15order.pdb
+C:\Documents and Settings\соколов\Рабочий стол\For15order_v001\For15order\bin\Debug\For15order.exe
+C:\Documents and Settings\соколов\Рабочий стол\For15order_v001\For15order\bin\Debug\For15order.pdb
+C:\Documents and Settings\соколов\Рабочий стол\For15order_v001\For15order\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\соколов\Рабочий стол\For15order_v001\For15order\obj\Debug\For15order.MainForm.resources
+C:\Documents and Settings\соколов\Рабочий стол\For15order_v001\For15order\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\соколов\Рабочий стол\For15order_v001\For15order\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\соколов\Рабочий стол\For15order_v001\For15order\obj\Debug\For15order.exe
+C:\Documents and Settings\соколов\Рабочий стол\For15order_v001\For15order\obj\Debug\For15order.pdb
+C:\Documents and Settings\соколов\Мои документы\SharpDevelop Projects\по 15 приказу\For15order\bin\Debug\For15order.exe
+C:\Documents and Settings\соколов\Мои документы\SharpDevelop Projects\по 15 приказу\For15order\bin\Debug\For15order.pdb
+C:\Documents and Settings\соколов\Мои документы\SharpDevelop Projects\по 15 приказу\For15order\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\соколов\Мои документы\SharpDevelop Projects\по 15 приказу\For15order\obj\Debug\For15order.MainForm.resources
+C:\Documents and Settings\соколов\Мои документы\SharpDevelop Projects\по 15 приказу\For15order\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\соколов\Мои документы\SharpDevelop Projects\по 15 приказу\For15order\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\соколов\Мои документы\SharpDevelop Projects\по 15 приказу\For15order\obj\Debug\For15order.exe
+C:\Documents and Settings\соколов\Мои документы\SharpDevelop Projects\по 15 приказу\For15order\obj\Debug\For15order.pdb
